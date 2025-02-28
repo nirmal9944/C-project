@@ -132,7 +132,7 @@ int main()
                 printf("\nTotal passenger:%d",n1);
             printf("\n_______________________________________\n");
             printf("If you have any confusion please contact \n");
-            printf("phone:9868309944\n");
+            printf("phone:9868000000\n");
             printf("press any key to continue.....!");
             getch();
             system("cls");
